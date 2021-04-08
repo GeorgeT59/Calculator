@@ -2,3 +2,4 @@ In order to view, simply download the index.html, script.js, and styles.css - th
 
 Also worth noting - make sure the files you downloaded are in the same directory, should look the preview image shown.
 
+View project here: https://georget59.github.io/Calculator/
